@@ -2,7 +2,7 @@
 
 #include "Video.h"
 
-#define RTPQ_DEFAULT_MAX_SIZE   380
+#define RTPQ_DEFAULT_MAX_SIZE   280
 #define RTPQ_DEFAULT_QUEUE_TIME 160
 
 typedef struct _RTP_QUEUE_ENTRY {
